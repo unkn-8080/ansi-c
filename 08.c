@@ -3,7 +3,7 @@
 
 int main(){
 
-    char in[9] ;
+    char in[10] ;
     int n;
 
     do{
